@@ -1,0 +1,23 @@
+body{
+    background-color: darkseagreen;
+}
+#img{
+    display: inline block;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#panelPrincipal{
+    display: inline-block;
+    width: 25%;
+    height: 300px;
+    margin: 8px;
+    padding: 5px;
+}
+#img1{
+    text-align: center;
+}
